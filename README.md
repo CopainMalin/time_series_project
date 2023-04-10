@@ -8,6 +8,6 @@ Ce repo est scindé en plusieurs dossiers :
     - Le dossier notebooks contenant le notebook du projet.
     - Un fichier requirements.txt avec les spécifications des librairies. 
     
-    /!\ Il faut disposer de Python <b>3.10</b> pour executer le code, car le "case" n'est pas implémenté dans les versions précédentes.
+    /!\ Il faut disposer de Python 3.10 pour executer le code, car le "case" n'est pas implémenté dans les versions précédentes.
 
 Concernant le choix des modèles, nous nous sommes orientés vers des modèles de ML et de statistique, excluant le DL au vu du faible nombre de données.
