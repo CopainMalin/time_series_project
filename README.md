@@ -1,5 +1,5 @@
 # Projet Time series - Forecasting with ML & DL
-Ce fichier présente le travail réalisé pour le projet de la matière "Time series - Forecasting with ML & DL" enseigné par M. Guillaume Hochard.
+Ce fichier présente le travail réalisé par Camil ZAHI et moi même (Baptiste GAUTIER) pour le projet de la matière "Time series - Forecasting with ML & DL" enseigné par M. Guillaume Hochard.
 
 Ce repo est scindé en plusieurs dossiers :
     - Le dossier data contenant les datas du projet téléchargeables ici : https://archive.ics.uci.edu/ml/datasets/Air+Quality.
